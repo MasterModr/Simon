@@ -2,4 +2,8 @@
 *.elf
 *.smdh
 Thumbs.db
+assets/
 build/
+emulator/
+netcat/
+*.bat
